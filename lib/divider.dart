@@ -1,9 +1,10 @@
-import 'package:flutter/cupertino.dart';
+//Divider
+import 'package:flutter/material.dart';
 
 import 'constent.dart';
 
-class Divider extends StatelessWidget {
-  const Divider({
+class MyDivider extends StatelessWidget {
+  const MyDivider({
     super.key,
   });
 

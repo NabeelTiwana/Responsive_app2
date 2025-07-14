@@ -1,3 +1,4 @@
+//constent
 import 'dart:ui';
 
 class Constant{
@@ -5,6 +6,7 @@ class Constant{
   static const Color primaryColor=Color(0xff6358DC);
   static const Color grey=Color(0xffECECEC);
   static const Color white=Color(0xffffffff);
+  static const darkGrey =Color(0xffd9d9d9);
 
   //images
  static const  String passwordIcon='assets/images/password.svg';
